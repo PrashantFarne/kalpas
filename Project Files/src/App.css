@@ -1,0 +1,16 @@
+#card1{
+    margin-top: 70px;
+    margin-left: 60px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    width:85%;
+    height: 80px;
+    text-align: center;
+    padding: 10px;
+    box-shadow:5px 10px #888888;
+   
+}
+
+#row{
+    background-color: black;
+}
